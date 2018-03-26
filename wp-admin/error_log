@@ -1,0 +1,147 @@
+[29-Jan-2018 17:38:01 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:38:01 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:38:02 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:38:02 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:39:02 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:39:02 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:39:02 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:39:02 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:40:02 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:40:02 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:40:02 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:40:03 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:42:03 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:42:03 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:42:04 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:42:04 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:44:04 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:44:04 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:44:04 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:44:04 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:46:04 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:46:04 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:46:05 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:46:05 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:48:05 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:48:05 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:48:05 America/Chicago] PHP Warning:  require_once(/home2/amarte/adrianarealestate.ca/wp-includes/load.php): failed to open stream: No such file or directory in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[29-Jan-2018 17:48:05 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home2/amarte/adrianarealestate.ca/wp-includes/load.php' (include_path='.:/opt/php56/lib/php') in /home2/amarte/adrianarealestate.ca/wp-load.php on line 49
+[30-Jan-2018 00:27:03 UTC] Error Unknown column 'wp_' in 'field list' de la base de datos de WordPress para la consulta SELECT wp_
+[30-Jan-2018 20:22:03 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[30-Jan-2018 20:22:04 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[20-Feb-2018 00:01:19 UTC] WordPress database error Table 'amarte_adrianarealestate.wp_et_social_stats' doesn't exist for query SELECT COUNT(*) FROM wp_et_social_stats WHERE action = 'share' made by require_once('wp-admin/admin.php'), do_action('tools_page_et_monarch_options'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, ET_Monarch->options_page, ET_Monarch->generate_stats_summary, ET_Monarch->get_total_stats
+[20-Feb-2018 00:01:19 UTC] WordPress database error Table 'amarte_adrianarealestate.wp_et_social_stats' doesn't exist for query SELECT COUNT(*) FROM wp_et_social_stats WHERE action = 'like' made by require_once('wp-admin/admin.php'), do_action('tools_page_et_monarch_options'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, ET_Monarch->options_page, ET_Monarch->generate_stats_summary, ET_Monarch->get_total_stats
+[20-Feb-2018 00:01:19 UTC] WordPress database error Table 'amarte_adrianarealestate.wp_et_social_stats' doesn't exist for query SELECT COUNT(*) FROM wp_et_social_stats WHERE action = 'follow' made by require_once('wp-admin/admin.php'), do_action('tools_page_et_monarch_options'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, ET_Monarch->options_page, ET_Monarch->generate_stats_summary, ET_Monarch->get_total_stats
+[20-Feb-2018 00:01:21 UTC] WordPress database error Table 'amarte_adrianarealestate.wp_et_social_stats' doesn't exist for query SELECT * FROM wp_et_social_stats WHERE ( action = 'share' OR action = 'like' ) ORDER BY sharing_date DESC made by do_action('wp_ajax_get_share_stats_graphs'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, ET_Monarch->get_share_stats_graphs
+[20-Feb-2018 03:58:49 UTC] Service.php:455 -> make_remote_request(): ET_Core_HTTPInterface ERROR :: Remote request failed...
+
+Details: object(ET_Core_HTTPInterface)#238 (2) {
+  ["REQUEST"]=>
+  object(ET_Core_HTTPRequest)#6343 (7) {
+    ["ARGS"]=>
+    array(8) {
+      ["blocking"]=>
+      bool(true)
+      ["body"]=>
+      NULL
+      ["cookies"]=>
+      array(0) {
+      }
+      ["headers"]=>
+      array(1) {
+        ["Accept"]=>
+        string(16) "application/json"
+      }
+      ["method"]=>
+      string(3) "GET"
+      ["sslverify"]=>
+      bool(true)
+      ["user-agent"]=>
+      string(58) "WordPress/4.9.4; Bloom/1.2.23; http://adrianarealestate.ca"
+      ["timeout"]=>
+      int(30)
+    }
+    ["URL"]=>
+    string(50) "https://api.convertkit.com/v3/forms?api_key=arturo"
+    ["METHOD"]=>
+    string(3) "GET"
+    ["BODY"]=>
+    NULL
+    ["IS_AUTH"]=>
+    bool(false)
+    ["IS_JSON_BODY"]=>
+    bool(false)
+    ["OWNER"]=>
+    string(5) "bloom"
+  }
+  ["RESPONSE"]=>
+  object(ET_Core_HTTPResponse)#6346 (5) {
+    ["STATUS_CODE"]=>
+    int(401)
+    ["STATUS_MESSAGE"]=>
+    string(12) "Unauthorized"
+    ["ERROR"]=>
+    bool(true)
+    ["ERROR_MESSAGE"]=>
+    string(12) "Unauthorized"
+    ["DATA"]=>
+    string(62) "{"error":"Authorization Failed","message":"API Key not valid"}"
+  }
+}
+
+[20-Feb-2018 03:58:59 UTC] Service.php:455 -> make_remote_request(): ET_Core_HTTPInterface ERROR :: Remote request failed...
+
+Details: object(ET_Core_HTTPInterface)#6335 (2) {
+  ["REQUEST"]=>
+  object(ET_Core_HTTPRequest)#6340 (7) {
+    ["ARGS"]=>
+    array(8) {
+      ["blocking"]=>
+      bool(true)
+      ["body"]=>
+      NULL
+      ["cookies"]=>
+      array(0) {
+      }
+      ["headers"]=>
+      array(1) {
+        ["Accept"]=>
+        string(16) "application/json"
+      }
+      ["method"]=>
+      string(3) "GET"
+      ["sslverify"]=>
+      bool(true)
+      ["user-agent"]=>
+      string(58) "WordPress/4.9.4; Bloom/1.2.23; http://adrianarealestate.ca"
+      ["timeout"]=>
+      int(30)
+    }
+    ["URL"]=>
+    string(84) "https://api.convertkit.com/v3/forms?api_key=fda48d300ff4271a8b1a7d9f86c85a3a008ae50b"
+    ["METHOD"]=>
+    string(3) "GET"
+    ["BODY"]=>
+    NULL
+    ["IS_AUTH"]=>
+    bool(false)
+    ["IS_JSON_BODY"]=>
+    bool(false)
+    ["OWNER"]=>
+    string(5) "bloom"
+  }
+  ["RESPONSE"]=>
+  object(ET_Core_HTTPResponse)#6343 (5) {
+    ["STATUS_CODE"]=>
+    int(401)
+    ["STATUS_MESSAGE"]=>
+    string(12) "Unauthorized"
+    ["ERROR"]=>
+    bool(true)
+    ["ERROR_MESSAGE"]=>
+    string(12) "Unauthorized"
+    ["DATA"]=>
+    string(62) "{"error":"Authorization Failed","message":"API Key not valid"}"
+  }
+}
+

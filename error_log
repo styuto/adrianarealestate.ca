@@ -1,0 +1,37 @@
+[06-Feb-2018 17:38:17 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[07-Feb-2018 01:10:30 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[07-Feb-2018 14:42:58 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Feb-2018 00:28:06 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Feb-2018 14:30:18 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[09-Feb-2018 01:05:01 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[09-Feb-2018 12:36:43 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[10-Feb-2018 00:54:05 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[10-Feb-2018 14:24:40 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[11-Feb-2018 02:00:16 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[11-Feb-2018 14:11:32 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Feb-2018 01:06:53 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Feb-2018 17:33:09 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[13-Feb-2018 03:59:35 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[13-Feb-2018 13:06:03 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[14-Feb-2018 01:40:56 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[14-Feb-2018 12:56:42 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[15-Feb-2018 01:11:53 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[15-Feb-2018 17:29:53 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[16-Feb-2018 00:30:51 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[16-Feb-2018 14:21:49 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[17-Feb-2018 03:50:06 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[17-Feb-2018 18:04:09 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[18-Feb-2018 04:31:46 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[18-Feb-2018 13:42:09 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[19-Feb-2018 02:19:40 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[19-Feb-2018 14:43:59 UTC] PHP Fatal error:  Call to undefined function request_filesystem_credentials() in /home2/amarte/adrianarealestate.ca/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[20-Feb-2018 04:08:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/amarte/adrianarealestate.ca/wp-content/themes/Divi/header.php on line 210
+[20-Feb-2018 04:08:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/amarte/adrianarealestate.ca/wp-content/themes/Divi/header.php on line 210
+[20-Feb-2018 19:24:50 UTC] PHP Parse error:  syntax error, unexpected ''input_attr' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home2/amarte/adrianarealestate.ca/wp-content/themes/Divi/functions.php on line 3943
+[20-Feb-2018 23:00:41 UTC] class-wp-hook.php:286 -> call_user_func_array(): bloom_error: convertkit arturo Authorization failed: 
+[21-Feb-2018 23:49:33 UTC] class-wp-hook.php:286 -> call_user_func_array(): bloom_error: convertkit arturo Authorization failed: 
+[22-Feb-2018 23:52:15 UTC] class-wp-hook.php:286 -> call_user_func_array(): bloom_error: convertkit arturo Authorization failed: 
+[23-Feb-2018 23:36:17 UTC] class-wp-hook.php:286 -> call_user_func_array(): bloom_error: convertkit arturo Authorization failed: 
+[25-Feb-2018 02:35:48 UTC] class-wp-hook.php:286 -> call_user_func_array(): bloom_error: convertkit arturo Authorization failed: 
+[26-Feb-2018 00:12:32 UTC] class-wp-hook.php:286 -> call_user_func_array(): bloom_error: convertkit arturo Authorization failed: 
+[27-Feb-2018 01:30:27 UTC] class-wp-hook.php:286 -> call_user_func_array(): bloom_error: convertkit arturo Authorization failed: 
